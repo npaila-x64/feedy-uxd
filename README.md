@@ -62,7 +62,11 @@ This platform enables nutritionists to manage, monitor, and support their patien
 
 ### UX Personas
 
+#### Nutritionist
+
 ![ux-persona-nutritionist](./assets/2.%20Scope/UX%20Personas/nutritionist.png)
+
+#### Patients
 
 ![ux-persona-patient-1](./assets/2.%20Scope/UX%20Personas/patient-1.png)
 
