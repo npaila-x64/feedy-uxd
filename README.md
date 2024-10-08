@@ -78,7 +78,7 @@ This platform enables nutritionists to manage, monitor, and support their patien
 
 ### Functional Requirements
 
-A detailed list of the main functionalities the platform aims to fulfill.
+A detailed list of the main functionalities the platform aims to provide.
 
 1. **Nutritional Plan Manager**
 
