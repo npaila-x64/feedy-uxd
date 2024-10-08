@@ -2,7 +2,11 @@
 
 ## Abstract
 
-This project aims to showcase in great detail the processes, models, strategies, mockups, and other assets created in order to build a mobile application aimed to help improve the nutritional care treatment.
+This repository presents the comprehensive approach that went into designing **Feedy**, a mobile application aimed to enhanced nutritional care. The app mainly focuses on addressing the challenges of **continuous follow-up** whilst improving patient adherence to dietary plans.
+
+Within this space there are details of processes, strategies, user experience models, wireframes and mockups, and more. All assets created with the use of User Experience fundamentals in mind.
+
+The book **"The Elements of User Experience (2nd edition)"** by Jesse James Garrett was used as a main reference.
 
 ## <img src="./assets/Other/strategy-icon.png" alt="strategy-icon" width="50"/> 1. Strategy 
 
@@ -33,9 +37,11 @@ This situation presents several issues:
 - **Patients**: People who seek care from nutritionists. The reasons for seeking care include: eating disorders, medical problems with a nutritional origin, starting diets, weight-loss programs, and more.
 - **Nutritionists**: Professional doctors who provide healthcare and treatments in the areas of nutrition and dietetics.
 
-### Value Proposition Canvas
+### Interview with Nutritionist
 
-![value-proposition-canvas](./assets/1.%20Strategy/Value%20Proposition%20Canvas/value-proposition-canvas.svg)
+As part of the user research process we interviewed a nutritionist on key points related to their day-to-day workflow.
+
+[Click for more details](./assets/1.%20Strategy/Nutritionist%20Interview)
 
 ---
 
@@ -50,6 +56,10 @@ This platform enables nutritionists to manage, monitor, and support their patien
 - Simplify patient management for nutritionists
 - Increase adherence to nutritional plans
 
+### Value Proposition Canvas
+
+![value-proposition-canvas](./assets/1.%20Strategy/Value%20Proposition%20Canvas/value-proposition-canvas.svg)
+
 ### UX Personas
 
 ![ux-persona-nutritionist](./assets/2.%20Scope/UX%20Personas/nutritionist.png)
@@ -61,6 +71,10 @@ This platform enables nutritionists to manage, monitor, and support their patien
 ![ux-persona-patient-3](./assets/2.%20Scope/UX%20Personas/patient-3.png)
 
 ## <img src="./assets/Other/scope-icon.png" alt="scope-icon" width="50"/> 2. Scope 
+
+### Functional Requirements
+
+A detailed list of the main functionalities the platform aims to fulfill.
 
 1. **Nutritional Plan Manager**
 
@@ -100,6 +114,8 @@ This platform enables nutritionists to manage, monitor, and support their patien
      Nutritionists will have access to a calendar where they can view and manage appointments with their patients.
 
 ### Customer Journey Map
+
+A vision on what it is hoped a patient user should experience throughout the use of the application.
 
 ![cjm](./assets/2.%20Scope/CJM/customer-journey-map.png)
 
