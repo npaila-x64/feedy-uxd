@@ -4,9 +4,9 @@
 
 This repository presents the comprehensive approach that went into designing **Feedy**, a mobile application aimed to enhance nutritional care. The app mainly focuses on addressing the challenges of **continuous follow-up** whilst improving patient adherence to dietary plans.
 
-Within this space there are details of processes, strategies, user experience models, wireframes and mockups, and more. All assets created with User Experience fundamentals in mind.
+Within this space there are details of processes, strategies, user experience models, wireframes and mockups, and more. All assets created with User Experience (UX) fundamentals in mind.
 
-The book **"The Elements of User Experience (2nd edition)"** by Jesse James Garrett was used as a main reference.
+The book **"The Elements of User Experience (2nd edition)"** by Jesse James Garrett was used as main reference.
 
 ## <img src="./assets/Other/strategy-icon.png" alt="strategy-icon" width="50"/> 1. Strategy 
 
