@@ -8,6 +8,6 @@ The purpose of this interview was to gather insights into some of the tasks a nu
 - Interviewer: Nicolás Pacheco
 - Interviewee: Constanza Vega
 
-Datetime of interview: 
+Date of interview: 10/02/2024
 
 ### [Audio Link](interview.ogg)
