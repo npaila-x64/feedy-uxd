@@ -41,7 +41,7 @@ This situation presents several issues:
 
 As part of the user research process we interviewed a nutritionist on key points related to their day-to-day workflow.
 
-[Click for more details](./assets/1.%20Strategy/Nutritionist%20Interview)
+[Click here for more details](./assets/1.%20Strategy/Nutritionist%20Interview)
 
 ---
 
