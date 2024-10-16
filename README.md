@@ -46,7 +46,7 @@ As part of the user research process we interviewed a nutritionist on key points
 ---
 
 ### Solution
-The solution is a digital platform that facilitates continuous communication and tracking between nutritionists and their patients, ensuring more effective treatment follow-ups.
+The solution is **Feedy**, a digital platform that facilitates continuous communication and tracking between nutritionists and their patients, ensuring more effective treatment follow-ups.
 
 This platform enables nutritionists to manage, monitor, and support their patients throughout their treatment journey. Patients, in turn, can use the platform to log their progress, and stay in touch with their nutritionist, receiving guidance whenever needed.
 
