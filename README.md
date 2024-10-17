@@ -108,9 +108,6 @@ A detailed list of the main functionalities the platform aims to provide.
    - **1.2. Plan Adjustments and Updates**:  
      Nutritionists can modify existing nutritional plans and send them to patients in real time.
 
-   - **1.3. Plan Delivery and Notification**:  
-     Patients will receive a notification on the platform when a new plan or modification is sent by their nutritionist.
-
 2. **Tracking and Data Analysis Tools**
 
    - **2.1. Daily food intake logging**:  
