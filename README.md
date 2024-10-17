@@ -48,9 +48,9 @@ This situation presents several issues:
 - **Patients**: People who seek care from nutritionists. The reasons for seeking care include: eating disorders, medical problems with a nutritional origin, starting diets, weight-loss programs, and more.
 - **Nutritionists**: Professional doctors who provide healthcare and treatments in the areas of nutrition and dietetics.
 
-### Interview with Nutritionist
+### Interview with Nutritionists
 
-As part of the user research process we interviewed 2 nutritionists on key points related to their day-to-day workflow.
+As part of the user research process we interviewed two nutritionists on key points related to their day-to-day workflow.
 
 [Interview with Constanza](./assets/1.%20Strategy/Nutritionist%20Interview%20-%20Constanza)
 
