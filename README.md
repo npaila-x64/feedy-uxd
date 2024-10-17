@@ -113,9 +113,6 @@ A detailed list of the main functionalities the platform aims to provide.
    - **2.1. Daily food intake logging**:  
      Patients can easily record their daily meals either manually or by selecting predefined options within the platform.
 
-   - **2.2. Progress visualization**:  
-     Patients and nutritionists will be able to view graphs and reports on the adherence to the nutritional plan, changes in weight, body measurements, calorie intake, and other parameters.
-
 3. **Patient Management Module**
 
    - **3.1. Patient Management**:  
@@ -136,9 +133,19 @@ A vision on what it is hoped a patient user should experience throughout the use
 
 ## <img src="./assets/Other/structure-icon.png" alt="structure-icon" width="50"/> 3. Structure
 
+The platform outlines two main user flows designed for each type of user: the nutritionist and the patient.
+
 ![sitemap-nutritionist](./assets/3.%20Structure/Sitemap/nutritionist.png)
 
 ![sitemap-patient](./assets/3.%20Structure/Sitemap/patient.png)
+
+## <img src="./assets/Other/skeleton-icon.png" alt="skeleton-icon" width="50"/> 4. Skeleton
+
+### [View Wireframes in Figma](https://www.figma.com/design/itqdHVloPVOwyIRgZWgkOW/Wireframes?node-id=0-1&t=bQdhqDPaPY9Nw7cP-1)
+
+## <img src="./assets/Other/surface-icon.png" alt="surface-icon" width="50"/> 5. Surface
+
+### [View Mock-Ups in Figma](https://www.figma.com/design/yZCEeupYSV6I8xuvcyC62T/Mock-Ups?node-id=2001-765&t=ivqq72VKPRS2a1l6-1)
 
 ## Evolution of Interfaces
 
@@ -150,6 +157,9 @@ Following the scope and structure definitions of the project a first set of low-
 
 As can be seen on the images, and also according to the [limitations](#limitations) section, the wireframes reflect the main functionalities that were selected from the original Feedy proposal.
 
+![alt text](image.png)
+
+With some organizational work the wireframes were neatly agrouped by user type. 
 
 ### Second Iteration — High Fidelity Mock-up
 
@@ -158,6 +168,3 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 ### Third Iteration — Navegable Mock-up
 
 A high degree of interactivity was added to the views of core functionalities.
-
-
-<img src="image-2.png" alt="strategy-icon" width="200"/>
