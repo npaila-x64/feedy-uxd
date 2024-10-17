@@ -8,6 +8,17 @@ Within this space there are details of processes, strategies, user experience mo
 
 The book **"The Elements of User Experience (2nd edition)"** by Jesse James Garrett was used as main reference.
 
+## Team and Roles
+
+- Benjamin Salamanca - Designer
+  - Responsible on developing the user experience and user interface of the app.
+- Nicolás Pacheco - Analyst
+  - Focused on analysing and understanding the problem, and in ensuring that the solution is a good fit to effectively solve it.
+- Nicolás Fernández - Expositor
+  - Responsible of presenting and communicating the app's features and design to stakeholders. 
+- Nicolás Paila - Project Manager
+  - Responsible in overseeing the project's timeline, scheduling, and team coordination.
+
 ## <img src="./assets/Other/strategy-icon.png" alt="strategy-icon" width="50"/> 1. Strategy 
 
 ### Problem Statement
@@ -129,3 +140,11 @@ A vision on what it is hoped a patient user should experience throughout the use
 ![sitemap-nutritionist](./assets/3.%20Structure/Sitemap/nutritionist.png)
 
 ![sitemap-patient](./assets/3.%20Structure/Sitemap/patient.png)
+
+## Evolution of Interfaces
+
+### 1. First Iteration — Wireframes
+
+Following the scope and structure planes a first set of low-fidelity wireframes where created in order to despict the core functionalities of the system.
+
+
