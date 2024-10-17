@@ -114,9 +114,6 @@ A detailed list of the main functionalities the platform aims to provide.
      - Progress in treatment.
      - Latest food intake logs.
 
-   - **3.2. Consultation Calendar**:  
-     Nutritionists will have access to a calendar where they can view and manage appointments with their patients.
-
 ### Customer Journey Map
 
 A vision on what it is hoped a patient user should experience throughout the use of the application.
