@@ -50,9 +50,11 @@ This situation presents several issues:
 
 ### Interview with Nutritionist
 
-As part of the user research process we interviewed a nutritionist on key points related to their day-to-day workflow.
+As part of the user research process we interviewed 2 nutritionists on key points related to their day-to-day workflow.
 
-[Click here for more details](./assets/1.%20Strategy/Nutritionist%20Interview)
+[Interview with Constanza](./assets/1.%20Strategy/Nutritionist%20Interview%20-%20Constanza)
+
+[Interview with Bárbara](./assets/1.%20Strategy/Nutritionist%20Interview%20-%20Barbara)
 
 ---
 
