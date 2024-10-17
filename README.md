@@ -108,7 +108,7 @@ A detailed list of the main functionalities the platform aims to provide.
    - **1.2. Plan Adjustments and Updates**:  
      Nutritionists can modify existing nutritional plans and send them to patients in real time.
 
-2. **Tracking and Data Analysis Tools**
+2. **Tracking Tools**
 
    - **2.1. Daily food intake logging**:  
      Patients can easily record their daily meals either manually or by selecting predefined options within the platform.
@@ -120,6 +120,11 @@ A detailed list of the main functionalities the platform aims to provide.
      - Medical history.
      - Progress in treatment.
      - Latest food intake logs.
+
+4. **AI-Powered Recipe Generation**
+
+   - **4.1. Personalized Recipe Creation**:  
+     The platform will use AI to automatically generate personalized recipes for patients based on their nutritional plans.
 
 ### Customer Journey Map
 
