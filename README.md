@@ -196,8 +196,6 @@ Nutritional treatment often require the input of health metrics like weight, hei
 
 The catch with this system are the subscription features that it implements. A nutritionist can subscribe their patients via QR code scanning, which enables personalized support and treatment tracking.
 
-Then the patient
-
 ![alt text](./assets/4.%20Skeleton/image-4.png)
 
 ![alt text](./assets/4.%20Skeleton/image-5.png)
