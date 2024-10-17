@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository presents the comprehensive approach that went into designing **Feedy**, a mobile application aimed to enhance nutritional care. The app mainly focuses on addressing the challenges of **continuous follow-up** whilst improving patient adherence to dietary plans.
+This repository presents the comprehensive approach that went into designing **Feedy**, a mobile application aimed to enhance nutritional care. The app mainly focuses on addressing the challenges of **continuous follow-up** between nutritionists and their patients whilst improving patient adherence to dietary plans.
 
 Within this space there are details of processes, strategies, user experience models, wireframes, mockups, **and more**. All assets created with User Experience (UX) fundamentals in mind.
 
@@ -87,6 +87,11 @@ This platform enables nutritionists to manage, monitor, and support their patien
 
 ![ux-persona-patient-3](./assets/2.%20Scope/UX%20Personas/patient-3.png)
 
+### Limitations
+
+- There was an original proposal for Feedy that was intented to contain many more functionalities which were hoped to effectively solve the problem. Nevertheless that version was heavily cut in order to fit the project within the course timeframe.
+- The solution is in fact a two-system platform, one system designed specifically for nutritionists, and the other specifically for patients. With this in mind, the scope of the project could easily take a huge toll on the time needed for design. Because of this scope creep a scope cut was needed.
+
 ## <img src="./assets/Other/scope-icon.png" alt="scope-icon" width="50"/> 2. Scope 
 
 ### Functional Requirements
@@ -145,8 +150,22 @@ A vision on what it is hoped a patient user should experience throughout the use
 
 ## Evolution of Interfaces
 
-### 1. First Iteration — Wireframes
+### First Iteration — Wireframes
 
-Following the scope and structure planes a first set of low-fidelity wireframes where created in order to despict the core functionalities of the system.
+Following the scope and structure definitions of the project a first set of low-fidelity wireframes where created in order to despict the core functionalities of the system.
+
+![alt text](image-1.png)
+
+As can be seen on the images, and also according to the [limitations](#limitations) section, the wireframes reflect the main functionalities that were selected from the original Feedy proposal.
 
 
+### Second Iteration — High Fidelity Mock-up
+
+Definitive colors, typography, component styling, and aesthetically pleasing imagery were applied.
+
+### Third Iteration — Navegable Mock-up
+
+A high degree of interactivity was added to the views of core functionalities.
+
+
+<img src="image-2.png" alt="strategy-icon" width="200"/>
