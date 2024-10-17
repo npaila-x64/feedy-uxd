@@ -140,6 +140,8 @@ A vision on what it is hoped a patient user should experience throughout the use
 
 The platform outlines two main user flows designed for each type of user: the nutritionist and the patient.
 
+Both sitemaps share the common entry point 'login' but branch out into their own flows depending of the user type.
+
 ![sitemap-nutritionist](./assets/3.%20Structure/Sitemap/nutritionist.png)
 
 ![sitemap-patient](./assets/3.%20Structure/Sitemap/patient.png)
