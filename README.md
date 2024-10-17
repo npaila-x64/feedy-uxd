@@ -119,11 +119,6 @@ A detailed list of the main functionalities the platform aims to provide.
    - **2.2. Progress visualization**:  
      Patients and nutritionists will be able to view graphs and reports on the adherence to the nutritional plan, changes in weight, body measurements, calorie intake, and other parameters.
 
-   - **2.3. Real-time data analysis**:  
-     Nutritionists will have access to reports showing their patients' daily or weekly progress. These reports will include information such as:
-     - Adherence to the plan.
-     - Calorie intake.
-
 3. **Patient Management Module**
 
    - **3.1. Patient Management**:  
