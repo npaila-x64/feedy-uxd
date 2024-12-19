@@ -217,3 +217,66 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 #### Shared Views
 
 ![alt text](./assets/5.%20Surface/image-7.png)
+
+
+### Improvements from Feedback
+
+Given the feedback received from group cross examination and fellow colleagues the following changes were made to the design:
+
+1. An overall improvement in look-and-feel was made to the mockup's design.
+   1. For components, constrast in their color scheme was improved. As example, buttons with more significance, such as close buttons stand out more now.
+   2. Overall app's theme color is more homogeneous, with the app's classic green palette having a more embracing and immersive feel.
+2. The recipes view and flow was removed (as an effort to remove scope creep)
+3. The way new patients are added has changed, nutritionists now add them via requests.
+   1. QR codes are now replaced with number codes.
+4. Flows related to tracking patient's progress improved, with the addition of **targets** and time-based graphs.
+
+#### Login / Registration
+
+![alt text](./assets/5.%20Surface/Improvements/image.png)
+
+Friendly avatars are used to quickly guide the user to their correct role.
+
+![alt text](./assets/5.%20Surface/Improvements/image-7.png)
+
+### Nutritionist Views
+
+#### Nutritionist Profile
+
+![alt text](./assets/5.%20Surface/Improvements/image-6.png)
+
+#### Patient Profiles
+
+![alt text](./assets/5.%20Surface/Improvements/image-3.png)
+
+#### Patient's Diet
+
+The heavy use of iconography is intented as quick reference of common concepts and/or associations linked to diets.
+
+![alt text](./assets/5.%20Surface/Improvements/image-2.png)
+
+#### Patients Requests
+
+![alt text](./assets/5.%20Surface/Improvements/image-4.png)
+
+### Patient Views
+
+#### Dashboard
+
+As gamification element a system of 'streaks' is implemented to motivate diet adherence. The 'fire' symbol is commonly used to represent ongoing or consecutive use in an interactive manner.
+
+![alt text](./assets/5.%20Surface/Improvements/image-9.png)
+
+#### Patient Profile
+
+![alt text](./assets/5.%20Surface/Improvements/image-8.png)
+
+#### Patient's Nutritional Plan and Meal Cards
+
+![alt text](./assets/5.%20Surface/Improvements/image-5.png)
+
+#### Add Nutritionist
+
+Note the supplemental or 'helping' component, it is thought to be a modal bottom sheet used to guide the user throughout the flow.
+
+![alt text](./assets/5.%20Surface/Improvements/image-1.png)
