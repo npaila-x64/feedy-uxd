@@ -235,6 +235,11 @@ Given the feedback received from group cross examination and fellow colleagues t
 
 #### Login / Registration
 
+This view is mostly unmodified with the exception of minor layout changes for simplification. The following is a newly made diagram meant as a high-level overview of the flow.
+
+![alt text](./assets/5.%20Surface/Improvements/image-13.png)
+
+
 ![alt text](./assets/5.%20Surface/Improvements/image.png)
 
 Friendly avatars are used to quickly guide the user to their correct role.
