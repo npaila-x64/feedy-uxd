@@ -228,7 +228,7 @@ Given the feedback received from group cross examination and fellow colleagues t
    2. Overall app's theme color is more homogeneous, with the app's classic green palette having a more embracing and immersive feel.
 2. The recipes view and flow was removed (as an effort to remove scope creep)
 3. The way new patients are added has changed, nutritionists now add them via requests.
-   1. QR codes are now replaced with numberic codes. Each Nutritionist is assigned their unique ID or code that patients subscribe to.
+   1. QR codes are now replaced with numeric codes. Each Nutritionist is assigned their unique ID or code that patients subscribe to.
 4. Flows related to tracking patient's progress improved, with the addition of **targets** and time-based graphs.
 
 ### Improvements in Mockups
