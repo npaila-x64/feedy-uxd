@@ -218,6 +218,8 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 
 ![alt text](./assets/5.%20Surface/image-7.png)
 
+# 2° Milestone (Avance II)
+
 ## Heuristic Evaluation Results
 
 At the end of this first iteration of Feedy, a fellow group did a Heuristic Evaluation, in which they pointed out several things across the design and usability of the app:
@@ -240,11 +242,13 @@ Given the feedback received from group cross examination and fellow colleagues t
    1. QR codes are now replaced with numeric codes. Each Nutritionist is assigned their unique ID or code that patients subscribe to.
 4. Flows related to tracking patient's progress has improved, with the addition of **targets** and time-based graphs.
 
-### Improvements in Mockups
+### Mockups Changelog
+
+### [View Mock-Ups in Figma](https://www.figma.com/design/yZCEeupYSV6I8xuvcyC62T/Mock-Ups?node-id=2001-765&t=ivqq72VKPRS2a1l6-1)
 
 #### Login / Registration
 
-This view is mostly unmodified with the exception of minor layout changes for simplification. The following is a newly made diagram meant as a high-level overview of the flow.
+This view is mostly unmodified with the exception of minor layout changes made for simplification. The following is a newly made diagram meant as a high-level overview of the flow.
 
 ![alt text](./assets/5.%20Surface/Improvements/image-13.png)
 
