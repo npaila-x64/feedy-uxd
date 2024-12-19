@@ -121,11 +121,6 @@ A detailed list of the main functionalities the platform aims to provide.
      - Progress in treatment.
      - Latest food intake logs.
 
-4. **AI-Powered Recipe Generation**
-
-   - **4.1. Personalized Recipe Creation**:  
-     The platform will use AI to automatically generate personalized recipes for patients based on their nutritional plans.
-
 ### Customer Journey Map
 
 A vision on what it is hoped a patient user should experience throughout the use of the application.
