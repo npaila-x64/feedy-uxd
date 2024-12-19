@@ -222,8 +222,8 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 
 At the end of this first iteration of Feedy, a fellow group did a Heuristic Evaluation, in which they pointed out several things across the design and usability of the app:
 
-1. Log-Out Button: This button doesn't stand out as it should be with a striking an distinctive colour.
-2. Irrelevant data of the nutritionist: Things like weight and heigth don't have a place in the app. Removing this should give more focus to the patients.
+1. **Log-Out Button**: This button doesn't stand out as it should be with a striking an distinctive colour.
+2. **Irrelevant data of the nutritionist**: Things like weight and heigth don't have a place in the app. Removing this should give more focus to the patients.
 3. Too much text in things where an image can describe things better, like the table of equivalence of carbohydrates.
 4. Several functions like "Add Food" or "Add Option" does not differenciate enough in size or colours, confusing the patients.
 5. Adding a patient to the nutritionist's plan is a bit tedious with the QR system and there's no documentation of how to do it, making the process more difficult to patients that don't know hot to use a QR scanner.
@@ -238,7 +238,7 @@ Given the feedback received from group cross examination and fellow colleagues t
 2. The recipes view and flow was removed (as an effort to remove scope creep)
 3. The way new patients are added has changed, nutritionists now add them via requests.
    1. QR codes are now replaced with numeric codes. Each Nutritionist is assigned their unique ID or code that patients subscribe to.
-4. Flows related to tracking patient's progress improved, with the addition of **targets** and time-based graphs.
+4. Flows related to tracking patient's progress has improved, with the addition of **targets** and time-based graphs.
 
 ### Improvements in Mockups
 
@@ -279,7 +279,11 @@ Improvements in layout as well as hierarchy were made, notice the color-coded st
 
 The heavy use of iconography is intented as quick reference of common concepts and/or associations linked to diets.
 
-![alt text](./assets/5.%20Surface/Improvements/image-2.png)
+![alt text](./assets/5.%20Surface/Improvements/image-14.png)
+
+As the day progresses the patient can register the food portions they've eaten throughout it. The way food is categorized in the app is actually a common way to separate food mostly based on the type of macronutrients they provide.
+
+![alt text](./assets/5.%20Surface/Improvements/image-15.png)
 
 #### Patients Requests
 
