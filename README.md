@@ -219,7 +219,7 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 ![alt text](./assets/5.%20Surface/image-7.png)
 
 
-### Improvements from Feedback
+## Improvements from Feedback
 
 Given the feedback received from group cross examination and fellow colleagues the following changes were made to the design:
 
@@ -228,8 +228,10 @@ Given the feedback received from group cross examination and fellow colleagues t
    2. Overall app's theme color is more homogeneous, with the app's classic green palette having a more embracing and immersive feel.
 2. The recipes view and flow was removed (as an effort to remove scope creep)
 3. The way new patients are added has changed, nutritionists now add them via requests.
-   1. QR codes are now replaced with number codes.
+   1. QR codes are now replaced with numberic codes. Each Nutritionist is assigned their unique ID or code that patients subscribe to.
 4. Flows related to tracking patient's progress improved, with the addition of **targets** and time-based graphs.
+
+### Improvements in Mockups
 
 #### Login / Registration
 
@@ -243,9 +245,19 @@ Friendly avatars are used to quickly guide the user to their correct role.
 
 #### Nutritionist Profile
 
+Displays some common metrics of value. Notice the nutritionist's code, as it is the code used when patients need to subscribe to this nutritionist.
+
 ![alt text](./assets/5.%20Surface/Improvements/image-6.png)
 
+#### Add Patient Flow
+
+Instead of QR codes, the patients directly write the unique numeric code asigned to their nutritionist.
+
+![alt text](./assets/5.%20Surface/Improvements/image-10.png)
+
 #### Patient Profiles
+
+Improvements in layout as well as hierarchy were made, notice the color-coded state subheader for each patient.
 
 ![alt text](./assets/5.%20Surface/Improvements/image-3.png)
 
@@ -257,7 +269,17 @@ The heavy use of iconography is intented as quick reference of common concepts a
 
 #### Patients Requests
 
+Brand new view made for the confirmation of new patients.
+
 ![alt text](./assets/5.%20Surface/Improvements/image-4.png)
+
+#### Patient Progress
+
+Progress is an important feature of this app, therefore special care was put in the visual and textual information this view must provide, common diet metrics and time-based graphs were used for this purpose.
+
+![alt text](./assets/5.%20Surface/Improvements/image-12.png)
+
+![alt text](./assets/5.%20Surface/Improvements/image-11.png)
 
 ### Patient Views
 
@@ -268,6 +290,8 @@ As gamification element a system of 'streaks' is implemented to motivate diet ad
 ![alt text](./assets/5.%20Surface/Improvements/image-9.png)
 
 #### Patient Profile
+
+Notice the heavy contrast in buttons color, for the logout button its meant to highlight the importance of its function.
 
 ![alt text](./assets/5.%20Surface/Improvements/image-8.png)
 
