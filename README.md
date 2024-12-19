@@ -239,7 +239,7 @@ Given the feedback received from group cross examination and fellow colleagues t
 
 ### Mockups Changelog
 
-### [View Mock-Ups in Figma](https://www.figma.com/design/yZCEeupYSV6I8xuvcyC62T/Mock-Ups?node-id=2001-765&t=ivqq72VKPRS2a1l6-1)
+### [View Mock-Ups in Figma](https://www.figma.com/design/yZCEeupYSV6I8xuvcyC62T/Mock-Ups?node-id=2184-1643&p=f&t=E8dWRdQhq9vCawbL-0)
 
 #### Login / Registration
 
