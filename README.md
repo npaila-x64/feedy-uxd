@@ -218,6 +218,15 @@ Definitive colors, typography, component styling, and aesthetically pleasing ima
 
 ![alt text](./assets/5.%20Surface/image-7.png)
 
+## Heuristic Evaluation Results
+
+At the end of this first iteration of Feedy, a fellow group did a Heuristic Evaluation, in which they pointed out several things across the design and usability of the app:
+
+1. Log-Out Button: This button doesn't stand out as it should be with a striking an distinctive colour.
+2. Irrelevant data of the nutritionist: Things like weight and heigth don't have a place in the app. Removing this should give more focus to the patients.
+3. Too much text in things where an image can describe things better, like the table of equivalence of carbohydrates.
+4. Several functions like "Add Food" or "Add Option" does not differenciate enough in size or colours, confusing the patients.
+5. Adding a patient to the nutritionist's plan is a bit tedious with the QR system and there's no documentation of how to do it, making the process more difficult to patients that don't know hot to use a QR scanner.
 
 ## Improvements from Feedback
 
